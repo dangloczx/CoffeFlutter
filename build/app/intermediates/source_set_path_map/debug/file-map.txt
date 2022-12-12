@@ -1,0 +1,13 @@
+com.example.coffe.app-core-1.6.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\3d943b8a8d6718874a3fad89ac634056\transformed\core-1.6.0\res
+com.example.coffe.app-jetified-window-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\3e94d6806eb4169e793b1c4cddcd808d\transformed\jetified-window-1.0.0-beta04\res
+com.example.coffe.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\ac057a03636e6585c83693bfe2e3e310\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.coffe.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\cd26984222cc0fa5df3c795677803a3d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.coffe.app-debug-4 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\android\app\src\debug\res
+com.example.coffe.app-main-5 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\android\app\src\main\res
+com.example.coffe.app-pngs-6 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\generated\res\pngs\debug
+com.example.coffe.app-resValues-7 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\generated\res\resValues\debug
+com.example.coffe.app-rs-8 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\generated\res\rs\debug
+com.example.coffe.app-mergeDebugResources-9 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.coffe.app-mergeDebugResources-10 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.coffe.app-merged_res-11 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\app\intermediates\merged_res\debug
+com.example.coffe.app-packaged_res-12 D:\Workshop VSCODE\CoffeShop\Flutter_CofeShop\build\path_provider_android\intermediates\packaged_res\debug
